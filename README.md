@@ -1,1 +1,1 @@
-# fotoalbumdjango
+# OLGU CAN KESER DJANGO TO DO LIST
